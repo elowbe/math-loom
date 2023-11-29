@@ -1,0 +1,5 @@
+expose_input,,(-375.0,-62.0),,value,,[48, 46, 48],,Number,,0,,0,,[]
+expose_output,,(645.0,62.0),,value_,,false,,Number
+script,,(62.0,-41.0),,[118, 97, 114, 50, 32, 61, 32, 40, 105, 110, 116, 41, 32, 118, 97, 114, 49, 59],,false,,-var1,var2,,,false
+connections:1:terminal0>2:var2,2:var1>0:terminal0,
+.port=80
